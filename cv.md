@@ -27,3 +27,12 @@ Test.assertEquals(makeNegative(42), -42);
 });
 });
 ```
+
+## Experience
+CV project https://kakuza1.github.io/rsschool-cv/cv
+## Education
+The Rolling Scopes course «JavaScript/Front-end» (in progress)
+## Language
+English - A2
+
+Russian - Native
