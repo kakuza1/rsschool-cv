@@ -14,3 +14,16 @@ A year ago I graduated from college and all this time I was trying to find mysel
 - Git, GitHub
 - VS Code
 - Kompas
+
+
+## Code example
+
+```
+const Test = require('@codewars/test-compat');
+
+describe("Tests", () => {
+it("test", () => {
+Test.assertEquals(makeNegative(42), -42);
+});
+});
+```
